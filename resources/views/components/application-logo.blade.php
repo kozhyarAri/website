@@ -1,0 +1,1 @@
+<img src="https://www.svgrepo.com/show/530126/gamepad.svg" width="100px" alt="">
